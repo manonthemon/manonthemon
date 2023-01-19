@@ -1,4 +1,4 @@
-👋 Hi, I’m Maciek Klimowicz
+<h1>👋 Hi, I’m Maciek Klimowicz </h1>
 <h3>A passionate frontend developer with experience in SEO and content marketing</h3>
 <li> 🌱 I’m currently learning front-end developement. Oh, and Italian too. </li>
 <li> 👀 I’m interested in wine, travel, video games, books, politics, cooking[...] </li>

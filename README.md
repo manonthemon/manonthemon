@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Maciek Klimowicz
-- <h3 align="center">A passionate frontend developer with experience in SEO and content marketing</h3>
+👋 Hi, I’m Maciek Klimowicz
+<h3>A passionate frontend developer with experience in SEO and content marketing</h3>
 - 🌱 I’m currently learning front-end developement. Oh, and Italian too. 
 - 👀 I’m interested in wine, travel, video games, books, politics, cooking[...]
 - 📫 You can reach me at **klimowicz.maciej@gmail.com**

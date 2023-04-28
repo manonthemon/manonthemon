@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Maciek Klimowicz </h1>
 <h3>A passionate frontend developer with experience in SEO and content marketing.</h3>
-<li> 🌱 I’m always learning front-end developement.</li>
+<li> 🌱 Currently learning: Python</li>
 <li> 👀 I’m interested in wine, travel, books, cooking[...] </li>
 <li> 📫 You can reach me at <a href="klimowicz.maciej@gmail">klimowicz.maciej@gmail.com</a></li>
 

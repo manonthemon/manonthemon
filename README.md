@@ -1,7 +1,7 @@
-<h1>👋 Hi, I’m Maciek Klimowicz </h1>
-<h3>A passionate frontend developer with experience in SEO and content marketing.</h3>
-<li> 🌱 Currently learning: Wordpress developement, PHP</li>
-<li> 📫 You can reach me at <a href="klimowicz.maciej@gmail">klimowicz.maciej@gmail.com</a></li>
+<h1>👋 Hello, World</h1>
+<h3>Working hard to crack the code</h3>
+<li> 🌱 Currently learning: CS50 </li>
+<li> 📫 Get in touch <a href="klimowicz.maciej@gmail">klimowicz.maciej@gmail.com</a></li>
 
 
 <h3 align="left">Languages and Tools:</h3>

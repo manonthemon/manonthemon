@@ -1,4 +1,4 @@
-<h1>👋 Hello, World</h1>
+<h1>👋 Hello, World!</h1>
 <h3>Working hard to crack the code</h3>
 <li> 🌱 Currently learning: CS50 </li>
 <li> 📫 Get in touch <a href="klimowicz.maciej@gmail">klimowicz.maciej@gmail.com</a></li>

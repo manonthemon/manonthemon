@@ -1,7 +1,7 @@
 <h1>👋 Hello, World!</h1>
 <h3>Working hard to crack the code</h3>
 <li> Currently working on: <a href="https://awineline.com">A Wine Line | Wine SEO Services by Maciek Klimowicz 🍇</a></li>
-<li> 📫 Get in touch <a href="klimowicz.maciej@gmail">klimowicz.maciej@gmail.com</a></li>
+<li> 📫 Get in touch: <a href="klimowicz.maciej@gmail">klimowicz.maciej@gmail.com</a></li>
 
 
 <h3 align="left">Languages and Tools:</h3>
